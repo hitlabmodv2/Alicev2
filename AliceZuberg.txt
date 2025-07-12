@@ -1,0 +1,132 @@
+//————————————————————————//
+
+/*
+
+Base XyrooRynzz
+Powered By Alice Assistent
+© XyrooRynzz 2022 - 2026
+
+Source
+WhatsApp : https://wa.me/6281543496975
+Tele me : https://t.me/XyrooRynzz
+instagram : https://instagram.com/biionlyyone
+WhatsApp: https://whatsapp.com/channel/0029VaagYHwCnA82hDK7l31D
+
+*/
+
+//————————————————————————//
+
+New Update V 12
+// 10 Juli 2025
+- Menghapus Button Di Allmenu
+- Menambahkan Auto Detect Nomor Bot Di AliceSet.js, Tidak Perlu Memasukkan Nomor Lagi, simpel
+- Penghapusan Limit Di Setiap Fitur
+- Membaca Bila Terkena Kick Atau Keluar Sendiri
+- Menghapus Button Di Menu
+- Menambahkan Detail Deskripsi Di Setiap ListMenu
+
+//--------------------------------------------------------------------\\
+
+Penambahan Fitur New :
+• Ai Features  
+- Quantum-ai  
+
+• Group Features  
+- Setwelcome
+- Setleft
+- Kickall
+- Addallback
+- Kicklog
+- Clearkicklog
+- Acc
+
+• Search Features  
+- Vivadetail  
+- Komiku-search  
+
+• Main Features  
+- Report  
+- Req  
+- Cekprem  
+- Ceksewa  
+
+• Tools Features  
+- Getgist  
+- Listapi  
+- Getapi  
+- Npmjs  
+- Getpastebin  
+
+• Owner Features  
+- Fix  
+- Listerror  
+- Addscrape  
+- Dellscrape  
+- Getscrape  
+- Addsewa
+- Delsewa  
+- Listsewa  
+
+• Convert Features  
+- Iphonechat  
+- Attp  
+- Attp2  
+- Attp3  
+- Attp4  
+- Ttp  
+- Ttp2  
+- Ttp3  
+- Ttp4  
+- Ttp5  
+- Faceblur  
+- Short-cloudku
+
+• Game Features  
+- Koboy
+- Catur  
+- Crypto
+
+• Store Features
+- buysewa
+- buyprem
+- status
+- cancel    
+
+• Rpg Features New
+- + 112 Features Active
+
+
+//--------------------------------------------------------------------\\
+
+Penghapusan Fitur :
+- 
+
+//--------------------------------------------------------------------\\
+
+Perbaikan Fitur :
+• Tools Features  
+- Nulis  
+
+• Game Features  
+- Tebak  
+
+• Main Features  
+- Readviewonce  
+
+• Owner Features  
+- Addowner  
+
+• Group Features  
+- Addmem  
+
+• Store Features  
+- Done  
+- Tunda  
+- Proses  
+- Batal
+
+//--------------------------------------------------------------------\\
+
+
+Powered By Alice Asistent
+© XyrooRynzz 2025

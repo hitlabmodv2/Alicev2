@@ -1,0 +1,18 @@
+{
+  "6281543496975@s.whatsapp.net": {
+    "name": "XyrooRynzz",
+    "coin": 100,
+    "exp": 0,
+    "level": 1,
+    "inv": [],
+    "weapon": "",
+    "armor": "",
+    "bank": 0,
+    "dailyCooldown": 0,
+    "workCooldown": 0,
+    "huntCooldown": 0,
+    "quest": {
+      "dailyDone": false
+    }
+  }
+}

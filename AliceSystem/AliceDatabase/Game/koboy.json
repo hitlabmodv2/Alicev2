@@ -1,0 +1,36 @@
+{
+  "6281543496975@s.whatsapp.net": {
+    "nama": "XyrooRynzz",
+    "role": "Koboy",
+    "uang": 620,
+    "exp": 48,
+    "level": 1,
+    "senjata": "Pistol Kayu",
+    "wanted": false,
+    "daily": "Sun Jun 22 2025",
+    "investasi": {
+      "jumlah": 100,
+      "waktu": 1750586302635
+    }
+  },
+  "62895393325895@s.whatsapp.net": {
+    "nama": "Dafa || Dafa || Dafa || Dafa || Dafa || Dafa || Dafa || Dafa || Dafa || Daf",
+    "role": "Koboy",
+    "uang": 600,
+    "bank": 0,
+    "exp": 15,
+    "daily": "Sun Jun 22 2025",
+    "level": 1,
+    "senjata": "Pistol Kayu",
+    "wanted": false,
+    "inventori": [],
+    "kills": 0,
+    "misi": {
+      "terakhir": null,
+      "status": "belum",
+      "jenis": null,
+      "progress": 0,
+      "target": 1
+    }
+  }
+}
