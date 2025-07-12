@@ -1,6 +1,6 @@
 { pkgs }: {
   deps = [
-    pkgs.nodejs-21_x
+    pkgs.nodejs-20_x
     pkgs.ffmpeg
     pkgs.yarn
     pkgs.git
